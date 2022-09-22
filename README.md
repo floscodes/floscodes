@@ -2,12 +2,12 @@
 
 I am a journalist and a passionate coder.
 
-<table border="0">
+<table border=0>
   <tr><td colspan="3">Currently writing in</td></tr>
 
 <tr>
-  <td><img src="https://foundation.rust-lang.org/img/rust-logo-blk.svg" width="40" height="40"></td>
-  <td><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="50" height="50"></td>
+  <td><img src="https://foundation.rust-lang.org/img/rust-logo-blk.svg" width="50" height="50"></td>
+  <td><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="60" height="50"></td>
   <td><img src="https://raw.githubusercontent.com/vlang/v-logo/master/dist/v-logo.png" width="40" height="40"></td>
  </tr>
 </table>
