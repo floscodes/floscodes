@@ -2,8 +2,8 @@
 
 I am a journalist and a passionate coder.
 
-<table>
-  <tr><td>Currently writing in</td></tr>
+<table border="0">
+  <tr><td colspan="3">Currently writing in</td></tr>
 
 <tr>
   <td><img src="https://foundation.rust-lang.org/img/rust-logo-blk.svg" width="40" height="40"></td>
