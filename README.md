@@ -3,7 +3,7 @@
 I am a journalist and passionate coder.
 
 <table style="border: none;">
-  <tr><td colspan="3">**Writing in**</td></tr>
+  <tr><td colspan="3"><b>Writing in</b></td></tr>
 
 <tr>
   <td><img src="https://foundation.rust-lang.org/img/rust-logo-blk.svg" width="50" height="50"></td>
