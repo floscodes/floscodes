@@ -11,7 +11,7 @@ I am a journalist and passionate coder.
  </tr>
   <tr>
     <td colspan="3"><b>Currently experimenting with</b></td>
-    <tr><td><img src="[https://github.com/ziglang/logo/raw/master/zig-logo-light.svg](https://github.com/ziglang/logo/raw/master/zig-mark.svg)" width="50" height="50" /></td></tr>
+    <tr><td><img src="https://github.com/ziglang/logo/raw/master/zig-mark.svg)" width="50" height="50" /></td></tr>
   </tr>
 </table>
 
