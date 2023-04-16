@@ -6,9 +6,13 @@ I am a journalist and passionate coder.
   <tr><td colspan="3"><b>Writing in</b></td></tr>
 
 <tr>
-  <td><img src="https://foundation.rust-lang.org/img/rust-logo-blk.svg" width="50" height="50"></td>
-  <td><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="70" height="60"></td>
+  <td><img src="https://foundation.rust-lang.org/img/rust-logo-blk.svg" width="50" height="50" /></td>
+  <td><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="70" height="60" /></td>
  </tr>
+  <tr>
+    <td colspan="3"><b>Currently experimenting with</b></td>
+    <td><img src="https://github.com/ziglang/logo/raw/master/zig-logo-light.svg" width="50" height="50" /></td>
+  </tr>
 </table>
 
 <!--
