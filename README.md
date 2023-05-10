@@ -2,6 +2,14 @@
 
 I am a journalist and passionate coder.
 
+<style>
+td, th {
+   border: none!important;
+   text-align: justify;
+   background: #f000;
+}
+</style>
+
 <table style="border: none;">
   <tr><td colspan="3"><b>Writing in</b></td></tr>
 
