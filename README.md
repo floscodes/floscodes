@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a journalist and passionate coder.
+I program out of enthusiasm. I program out of curiosity. I code for the love of learning new things.
 
 
 <!--
