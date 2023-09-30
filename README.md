@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I program out of enthusiasm. I program out of curiosity. I code for the love of learning new things.
+I code out of enthusiasm. I code out of curiosity. I code for the love of learning new things.
 
 
 <!--
