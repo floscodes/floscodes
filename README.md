@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I code out of enthusiasm. I code out of curiosity. I code for the love of learning new things.
-
 
 <!--
 **floscodes/floscodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
