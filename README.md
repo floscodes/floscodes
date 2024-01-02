@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-|-|-|
+|||
+|---|---|
 |### The `Future` is something we have to `.await`|![Ferris awaiting the Future](https://rustacean.net/more-crabby-things/rustdocs.png)|
 
 <!--
