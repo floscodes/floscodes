@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-### The `Future` is something we have to `.await`
+|-|-|
+|### The `Future` is something we have to `.await`|![Ferris awaiting the Future](https://rustacean.net/more-crabby-things/rustdocs.png)|
 
 <!--
 **floscodes/floscodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
