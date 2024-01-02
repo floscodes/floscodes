@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-### The `Future` is something we have to `.await`  <img src="https://rustacean.net/more-crabby-things/rustdocs.png" width="5%" height="5% />
+### The `Future` is something we have to `.await`
+<img src="https://rustacean.net/more-crabby-things/rustdocs.png" width="5%" height="5% />
 
 <!--
 **floscodes/floscodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
