@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### The `Future` is something we have to `.await`
+### The `Future` is something we have to `.await` 🦀
 
 
 <!--
