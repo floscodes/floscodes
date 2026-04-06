@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### The `Future` is something we have to `.await` 🦀
+I am **Florian Petautschnig** - building and sharing in the open. Focused on *Rust* 🦀 and *zig* ⚡.
 
 
 <!--
