@@ -2,7 +2,9 @@
 
 I am **Florian Petautschnig** - building and sharing in the open. Focused on *Rust* 🦀 and *zig* ⚡.
 
-[![flopetautschnig profile views](https://u8views.com/api/v1/github/profiles/69145145/views/day-week-month-total-count.svg)](https://u8views.com/github/floscodes)
+<div style="visibility: hidden;">
+  [![flopetautschnig profile views](https://u8views.com/api/v1/github/profiles/69145145/views/day-week-month-total-count.svg)](https://u8views.com/github/floscodes)
+</div>
 <!--
 **floscodes/floscodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
