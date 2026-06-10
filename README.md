@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Florian Petautschnig** - building and sharing in the open. Focused on *Rust* 🦀 and *zig* ⚡.
+I am **Florian Petautschnig** - building and sharing in the open. Web3 enthusiast. Focused on *Rust* 🦀 and *zig* ⚡.
 
 
 [![]()](https://u8views.com/github/floscodes)
