@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Florian Petautschnig** - building and sharing in the open. Decentralization enthusiast.
+I am **Florian Petautschnig** - building and sharing in the open. Always learning.
 
 
 [![]()](https://u8views.com/github/floscodes)
